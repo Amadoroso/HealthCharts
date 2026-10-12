@@ -1,6 +1,6 @@
 import SwiftUI
-import Playgrounds
 
+// The first app screen
 struct ContentView: View {
     var body: some View {
         Text("Hello, world!")
@@ -10,8 +10,4 @@ struct ContentView: View {
 
 #Preview {
     ContentView()
-}
-
-#Playground {
-    _ = 1 + 2
 }
